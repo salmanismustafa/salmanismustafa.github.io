@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://salmanmustafa.github.io//sitemap.xml
+Sitemap: https://salmanismustafa.github.io//sitemap.xml
