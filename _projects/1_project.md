@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Sentiment Analyzer Web App
-description: a simple web application for performing sentiment analysis on text input
+description: https://github.com/salmanismustafa/SentimentAnalyzer.git
 img: assets/img/senti.jpg
 importance: 1
 category: work
 related_publications: false
 ---
 
-# Sentiment Analysis Web App
+Fork or Clone from here: 
+https://github.com/salmanismustafa/SentimentAnalyzer.git
 
 This is a simple web application for performing sentiment analysis on text input. The application utilizes a Flask backend for handling requests and a front-end interface for user interaction.
 
