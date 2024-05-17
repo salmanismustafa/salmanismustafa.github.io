@@ -38,7 +38,7 @@ This is a simple web application for performing sentiment analysis on text input
 
          git clone https://github.com/salmanismustafa/sentiment-analysis-web-app.git
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
 
          cd sentiment-analysis-web-app
