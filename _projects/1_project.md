@@ -57,7 +57,7 @@ bash
 
 ## Usage
 
-   Open your web browser and go to http://localhost:5000 to access the web application.
+   Open your web browser and go to localhost:5000 to access the web application.
     Enter text in the input field and click "Analyze Sentiment" to see the sentiment analysis result.
     The result will display the input text, sentiment label (positive/negative/neutral), and confidence score.
 
