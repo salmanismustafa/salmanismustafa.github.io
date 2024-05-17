@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - How to Know a Person by David Brooks
 date: 2024-01-03 00:01:00
-description: longevity shmongevity
+description: i see you - deeply
 tags: formatting code
 categories: writing, personal, book review
 pseudocode: true
