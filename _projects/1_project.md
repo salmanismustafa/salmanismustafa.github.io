@@ -9,7 +9,9 @@ related_publications: false
 ---
 
 Fork or Clone from here: 
-https://github.com/salmanismustafa/SentimentAnalyzer.git
+bash
+
+      https://github.com/salmanismustafa/SentimentAnalyzer.git
 
 This is a simple web application for performing sentiment analysis on text input. The application utilizes a Flask backend for handling requests and a front-end interface for user interaction.
 
@@ -33,20 +35,21 @@ This is a simple web application for performing sentiment analysis on text input
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/salmanismustafa/sentiment-analysis-web-app.git
+   bash
+
+         git clone https://github.com/salmanismustafa/sentiment-analysis-web-app.git
 
     Navigate to the project directory:
 
     bash
 
-cd sentiment-analysis-web-app
+         cd sentiment-analysis-web-app
 
 Install dependencies:
 
 bash
 
-/transformers.sh
+      /transformers.sh
 
 
 Start the Flask server:
