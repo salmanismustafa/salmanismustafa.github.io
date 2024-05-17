@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sentiment Analyzer Web App
-description: with background image
+description: a simple web application for performing sentiment analysis on text input
 img: assets/img/senti.jpg
 importance: 1
 category: work
