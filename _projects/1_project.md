@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 Fork or Clone from here: 
-bash
+
 
       https://github.com/salmanismustafa/SentimentAnalyzer.git
 
@@ -35,26 +35,22 @@ This is a simple web application for performing sentiment analysis on text input
 
 1. Clone the repository:
 
-   bash
 
          git clone https://github.com/salmanismustafa/sentiment-analysis-web-app.git
 
     Navigate to the project directory:
 
-    bash
 
          cd sentiment-analysis-web-app
 
 Install dependencies:
 
-bash
 
       /transformers.sh
 
 
 Start the Flask server:
 
-bash
 
     python app.py
 
