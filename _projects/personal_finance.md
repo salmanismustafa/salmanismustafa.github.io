@@ -2,7 +2,7 @@
 layout: page
 title: Personal Budget Excel Generator with Python
 description: https://github.com/salmanismustafa/personal_budget.git
-img: assets/img/personal_budget.png
+img: assets/img/python_money.png
 importance: 1
 category: work
 related_publications: false
